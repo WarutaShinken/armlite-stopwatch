@@ -22,10 +22,7 @@ Keyboard Controls:
   * Clears the current time.
   * Clears the split times.
 
-## Design Overview
+## See Also
 
-TBD
-
-## Issues
-
-TBD
+* [Design Overview](design_overview.md)
+* [Challenges](challenges.md)
